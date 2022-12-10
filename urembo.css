@@ -167,6 +167,11 @@ nav .fa-solid
     {
         font-size: 14px;
     }
+    .img-container
+    {
+        width: 200px;
+        height: 100vh;
+    }
 }
 #msg
 {
