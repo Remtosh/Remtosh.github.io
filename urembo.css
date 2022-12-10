@@ -167,11 +167,6 @@ nav .fa-solid
     {
         font-size: 14px;
     }
-    .slider-frame
-    {
-        height: 100vh;
-        width: 200px;
-    }
 }
 #msg
 {
@@ -198,47 +193,6 @@ td
     border: 1px solid black;
     paddling: 5px;
     font-size: 25px;
-}
-.slider-frame
-{
-    overflow: hidden;
-    height: 500px;
-    width: 900px;
-    font-family: 'karla', sans-serif;
-    font-weight: lighter;
-}
-@-webkit-keyframes slide_animation
-{
-    0% {left: 0px;}
-    10% {left: 0px;}
-    20% {left: 1200px;}
-    30% {left: 1200px;}
-    40% {left: 2400px;}
-    50% {left:2400px;}
-    60% {left: 1200px;}
-    70% {left: 1200px;}
-    80% {left: 0px;}
-    90% {left: 0px;}
-    100% {left: 0px;}
-}
-.slide-images
-{
-    width: 3200px;
-    height: 800px;
-    margin: 0 0 0 -2400px;
-    position: relative;
-    -webkit-animation-name: slide_animation;
-    -webkit-animation-duration: 10s;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-direction: right;
-    -webkit-animation-play-state: running;
-}
-.img-container
-{
-    height: 800px;
-    width: 1200px;
-    position: relative;
-    float: left;
 }
 h3
 {
