@@ -167,20 +167,10 @@ nav .fa-solid
     {
         font-size: 14px;
     }
-    .slide-images
+    .slider-frame
     {
-        width: 200px;
         height: 100vh;
-        margin: 0 0 0;
-    }
-    .img-container
-    {
         width: 200px;
-        height: 100vh;
-        flex-basis: 100%;
-        top: 0;
-        right: 0;
-        padding-top: 50px;
     }
 }
 #msg
