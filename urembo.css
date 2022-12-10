@@ -171,6 +171,10 @@ nav .fa-solid
     {
         width: 200px;
         height: 100vh;
+        flex-basis: 100%;
+        top: 0;
+        right: 0;
+        padding-top: 50px;
     }
 }
 #msg
