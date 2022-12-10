@@ -167,6 +167,12 @@ nav .fa-solid
     {
         font-size: 14px;
     }
+    .slide-images
+    {
+        width: 200px;
+        height: 100vh;
+        margin: 0 0 0 -2400px;
+    }
     .img-container
     {
         width: 200px;
