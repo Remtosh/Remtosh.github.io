@@ -88,7 +88,8 @@ nav ul li a:hover::after
 }
 form input, form textarea
 {
-   width: 100%;
+   width: 80%;
+    height: 30px;
     border: 0;
     outline: none;
     background: #262626;
@@ -97,7 +98,7 @@ form input, form textarea
     margin-left: 20px;
     margin-right: 20px;
     color: #fff;
-    font-size: 18px;
+    font-size: 12px;
     border-radius: 6px;
 }
 form .btn2
@@ -141,7 +142,7 @@ nav .fa-solid
         height: 300px;
         padding-top: 50px;
         z-index: 2;
-        transition: right 0.5s;
+        transition: left 0.5s;
     }
     .members
     {
