@@ -15,6 +15,10 @@ body
     height: 100vh;
     background-image: url(images/background.jpg);
 }
+p
+{
+    text-align: center;
+}
 .container
 {
     padding: 10px 10%;
@@ -167,6 +171,10 @@ nav .fa-solid
     .copyright
     {
         font-size: 14px;
+    }
+    p
+    {
+        text-align: center;
     }
 }
 #msg
